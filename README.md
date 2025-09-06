@@ -1,3 +1,3 @@
-# flutter_notes_app
+# flutter_task_app
 
 A new Flutter project.
